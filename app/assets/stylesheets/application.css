@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ * {
+  font-family: 'Montserrat', sans-serif;
+ }
+
+ #answer {
+  background-color: rgb(252, 191, 191);
+ }
